@@ -1,0 +1,1 @@
+console.log("Portal do Aluno PSID iniciado");
